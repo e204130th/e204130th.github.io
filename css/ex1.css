@@ -1,0 +1,19 @@
+h1{
+    color:white;
+    background-color:thistle;
+    text-align:center;
+}
+h2{
+    color:grey;
+    background-color:lavender;
+    text-align:center;
+}
+table{
+    background-color:lavenderblush;
+}
+ol{
+    background-image:url(../images/haikei5.jpg)
+}
+body{
+    background-image:url(../images/haikei4.jpeg)
+}
