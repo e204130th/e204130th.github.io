@@ -1,0 +1,27 @@
+/*color1クラスのものだけ装飾*/
+.color1{
+    color:white;
+    background-color:thistle;
+    text-align:center;
+}
+
+/*h1タグの中でもtanimotoというidのやつだけ装飾*/
+h1#tanimoto{
+   color:whitesmoke;
+   background-color:lightseagreen;
+   text-align:center;
+}
+
+h2.color2{
+    color:orange;
+    background-color:lavenderblush;
+    text-align:center;
+}
+h2.color3{
+    color:green;
+    background-color:darkseagreen; 
+    text-align:center;
+}
+body{
+    background-image:url(../images/haikei4.jpeg)
+}
