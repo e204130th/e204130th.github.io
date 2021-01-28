@@ -1,0 +1,190 @@
+div.wrap{
+    width:1000px;
+    margin:0px auto;
+}
+div.menu1{
+    font-size:0;
+    width:1000px;
+    height:145px;
+    margin-bottom: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+div.title{
+    width:600px;
+    height:60px;
+    color:mediumslateblue;
+    background-color:azure;
+    font-size:40px;
+    border-radius: 10px;
+    margin-bottom:20px;
+    padding:5px 0px 0px 20px;
+}
+
+span.m1{
+    display:inline-block;
+    vertical-align: top;
+    padding-left: 7px;
+}
+button.button{
+    font-size:30px;
+    text-align:center;
+    width:240px;
+    height:40px;
+    color:white;
+    background-color: mediumaquamarine;
+    padding:0px;
+    cursor:pointer;
+    border-style: none;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 2px #000;
+    text-shadow: 2px 2px 2px #000;
+}
+button.button:hover{
+    opacity: 0.8;
+}
+
+div.menu2{
+    width:1000px;
+    height:330px;
+    margin-bottom: 20px;
+}
+div.m2{
+    width:1000px;
+    height:1100px;
+    background-color: white;
+    border-radius: 5px;
+}
+div.m21{
+    width:1000px;
+    height:1300px;
+    background-color: white;
+    border-radius: 5px;
+}
+div.m22{
+    width:1000px;
+    height:1400px;
+    background-color: white;
+    border-radius: 5px;
+}
+.gg{
+     border-radius: 5px;
+}
+div.menu3{
+    font-size:0;
+    width:1000px;
+    height:30px;
+    margin-bottom: 10px;
+}
+div.shurui{
+    font-size: 0;
+    width:960px;
+    height:30px;
+    margin-top: 10px;
+}
+div.m3{
+    width:960px;
+    height:1080px;
+    border: 20px solid white;
+    font-size:20px;
+}
+div.m31{
+    width:960px;
+    height:1280px;
+    border: 20px solid white;
+    font-size:20px;
+}
+div.m32{
+    width:960px;
+    height:1380px;
+    border: 20px solid white;
+    font-size:20px;
+}
+div.t{
+    width:960px;
+    height:50px;
+    color:mediumslateblue;
+    background-color: turquoise;
+    border-radius: 5px;
+    font-size:30px;
+    padding-left: 7px;
+}
+span.b{
+    display:inline-block;
+    vertical-align: top;
+    width:390px;
+    height:30px;
+    color:mediumslateblue;
+    font-size:20px;
+    background-color:powderblue;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-right:30px;
+}
+span.c{
+    display:inline-block;
+    vertical-align: top;
+    width:300px;
+    height:30px;
+    color:mediumslateblue;
+    font-size:20px;
+    background-color:powderblue;
+    padding-left: 10px;
+    border-radius: 5px;
+    margin-right:10px;
+}
+div.menu4{
+    font-size:0;
+    width:1000px;
+    height:900px;
+    background-color: ;
+}
+span.m41{
+    display:inline-block;
+    vertical-align: top;
+    width:400px;
+    height:700px;
+    margin-right: 30px;
+}
+span.m42{
+    display:inline-block;
+    vertical-align: top;
+    width:570px;
+    height:400px;
+    font-size:20px;
+}
+div.tv{
+    width:960px;
+    height:200px;
+    margin-bottom: 30px;
+}
+div.manga{
+    width:960px;
+    height:300px;
+}
+span.tv1{
+    margin-right: 20px;
+}
+table{
+    font-size:20px;
+    width:400px;
+    height:250px;
+    border-color: aquamarine;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+div.footer{
+    width:980px;
+    height:35px;
+    background-color:mediumaquamarine;
+    font-size:30px;
+    color:white;
+    text-align:right;
+    margin-top:20px;
+    padding:0px 20px 5px 0px;
+}
+body{
+    background-image:url(../images/mizuiro.jpg);
+    background-repeat:no-repeat;
+    background-size:100% 480px;
+}
